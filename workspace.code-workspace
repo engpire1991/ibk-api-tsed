@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+  ],
+  "settings": {
+		"typescript.tsdk": "node_modules\\typescript\\lib",
+		"files.exclude": {
+			"**/.git": true,
+			"**/node_modules": true
+		},
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": true
+		},
+  }
+}
